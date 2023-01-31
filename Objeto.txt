@@ -1,0 +1,98 @@
+Objeto em java.
+
+A linguagem JavaScript é projetada com base
+ em um simples paradigma orientado a objeto. 
+
+Objeto é uma coleção de propriedades
+
+// Propriedade é uma associação entre
+ um nome (ou chave) e um valor.
+
+ Um valor de propriedade pode ser uma função, 
+que é então considerada um método do objeto.
+
+Em JavaScript, um objeto é uma entidade
+ independente, com propriedades e tipos.
+ Uma xícara é um objeto, com propriedades. 
+Uma xícara tem uma cor, uma forma, peso,
+ um material de composição, etc. 
+
+Da mesma forma, objetos em JavaScript
+ podem ter propriedades, que definem suas
+ características.
+
+
+///// Objetos e propriedades /////////
+
+Um objeto em JavaScript tem propriedades
+ associadas a ele. 
+
+ Uma propriedade de um objeto pode
+ ser explicada como uma variável que é ligada
+ ao objeto. Propriedades de objetos são 
+basicamente as mesmas que variáveis normais 
+em JavaScript, exceto pelo fato de estarem
+ ligadas a objetos. As propriedades de um 
+objeto definem as características do objeto.
+
+Acessando propriedades de um objeto:
+
+nomeDoObjeto.nomeDaPropriedade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
